@@ -2,3 +2,6 @@
 [✔️] Silahlar
 
 [✔️] EconomyLand
+
+
+# Bilinen Buglar & Yapılması Gerekenler
