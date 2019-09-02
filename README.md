@@ -6,10 +6,10 @@
 
 # Bilinen Buglar & Yapılması Gerekenler
 
-==>
-GTA Silah Mağazası poligonu plugin 
-==>
-arabaya yakıt   sistemi
-==>
+==> GTA Silah Mağazası poligonu plugin 
+
+==> arabaya yakıt   sistemi
+
+==> 
 
 ==>
