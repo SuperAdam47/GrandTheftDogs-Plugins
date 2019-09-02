@@ -6,10 +6,12 @@
 
 # Bilinen Buglar & Yapılması Gerekenler
 
-==> GTA Silah Mağazası poligonu plugin 
+==> [✖] GTA Silah Mağazası poligonu plugin 
 
-==> arabaya yakıt   sistemi
+==> [✖] Arabaya yakıt   sistemi
 
-==> 
+==> [✖] Oyun haritasındaki tüm evlerin satışa sunulması ve içlerine sandıkların koyulması. Ev başına 20 sandık olbr
+
+==> [✖] Oyun haritasını çepeçevreleyen cam blokların kırılması
 
 ==>
