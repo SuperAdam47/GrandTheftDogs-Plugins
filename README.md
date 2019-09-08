@@ -14,4 +14,4 @@
 
 ==> [✖] Oyun haritasını çepeçevreleyen cam blokların kırılması
 
-==>
+==> [✖] KTP pluginine gerisayım ekleyebilecek birini bul ışınlanırken gerisayım yapıcak yani anlayınız.
